@@ -2,13 +2,20 @@
 A modern, responsive **e-commerce mobile application** built with **Flutter**. This project demonstrates clean architecture, reusable components, and fully responsive UI designed to be a foundation for scalable shopping apps.  
 
 ---
-
+ 
 ## 🎥 Demo Preview  
 
- https://github.com/user-attachments/assets/bc1c9934-0b10-4be9-bb97-51e9b765bc72 
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/user-attachments/assets/bc1c9934-0b10-4be9-bb97-51e9b765bc72">Watch Demo</a>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/4f73fc2d-20a5-4813-8577-e305b6615e3f" alt="Screenshot" width="300"/>
+    </td>
+  </tr>
+</table>
 
- 
- ![ScreenShot](https://github.com/user-attachments/assets/4f73fc2d-20a5-4813-8577-e305b6615e3f)
 
 ---
 
