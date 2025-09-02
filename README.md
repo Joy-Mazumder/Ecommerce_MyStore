@@ -8,16 +8,14 @@ A modern, responsive **e-commerce mobile application** built with **Flutter**. T
 <table>
   <tr>
     <td>
-      <video width="320" height="180" controls>
-        <source src="https://github.com/user-attachments/assets/bc1c9934-0b10-4be9-bb97-51e9b765bc72" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <a href="https://github.com/user-attachments/assets/bc1c9934-0b10-4be9-bb97-51e9b765bc72">Watch Demo Video</a>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/4f73fc2d-20a5-4813-8577-e305b6615e3f" alt="Screenshot" width="300"/>
+      <img src="https://github.com/user-attachments/assets/4f73fc2d-20a5-4813-8577-e305b6615e3f" width="300"/>
     </td>
   </tr>
 </table>
+
 
 
 ---
