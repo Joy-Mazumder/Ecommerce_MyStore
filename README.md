@@ -13,6 +13,13 @@ A modern, responsive **e-commerce mobile application** built with **Flutter**. T
 
 ---
 
+## 🎥 ScreenShot 
+
+ https://github.com/user-attachments/assets/4f73fc2d-20a5-4813-8577-e305b6615e3f
+
+
+---
+
 ## ✨ Key Features  
 - **Onboarding Flow** – Splash screen with a smooth introduction carousel  
 - **Authentication Screens** – Login and Sign Up UI with validation and user-friendly forms  
